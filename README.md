@@ -1,8 +1,6 @@
-<h1> Hi, I am Namrata Surjooram. </h1>
+<h1> Hi, I am Namrata Surjooram ! </h1>
  
-I'm a Computer Engineer. Some technologies/ tools I enjoy working with include Excel, SQL, Power BI, Python, Tableau etc.
-
-- 🌱 I’m currently learning more about <b>Data Analysis.</b>,
-
-- 😄 Pronouns: She/Her
+I'm a Computer Engineer. 
+I’m currently learning more about <b>Data Analysis.</b>, 
+Some technologies/ tools I enjoy working with include Excel, SQL, Power BI, Python, Tableau etc. 
 
