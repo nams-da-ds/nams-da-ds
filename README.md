@@ -5,5 +5,4 @@ I'm a Computer Engineer. SOme technologies/ tools I enjoy working with include E
 - 🌱 I’m currently learning more about <b>Data Analysis.</b>,
 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
+
